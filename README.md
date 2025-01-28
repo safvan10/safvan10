@@ -7,7 +7,7 @@
  
 
 
-👨‍💻 Hi, I'm MUHAMMED SAFVAN P.S!
+👨‍💻 Hi, **I'm MUHAMMED SAFVAN P.S!**
 
 🌱 I'm currently diving deep into **Artificial Intelligence & Machine Learning**  
 
@@ -15,7 +15,7 @@
 
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=py,html,react,git,vscode,windows,linux&perline=10"  />
+<img width="500px"  src="https://skillicons.dev/icons?i=py,html,react,git,github,vscode,windows,linux&perline=10"  />
 </p>
 <br />
 ---
