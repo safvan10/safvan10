@@ -26,17 +26,5 @@
 
 ---
 
-## 🌟 Featured Graphic  
-Here's a professional animated design I love sharing:  
-![Your Animated Design](https://raw.githubusercontent.com/your-username/your-repo/main/animated-design.gif)  
-
----
-
-### ⚡ Fun Fact  
-I'm passionate about coding, AI innovations, and exploring cutting-edge technologies. Let's connect and create something amazing! 🚀  
 
 
-<!---
-safvan10/safvan10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
