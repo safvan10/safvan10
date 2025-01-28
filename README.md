@@ -15,9 +15,19 @@
 
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=py,html,react,git,github,linkedin,vscode,windows,linux&perline=10"  />
+  <img width="500px"  src="https://skillicons.dev/icons?i=py,html,react,git,github,linkedin,vscode,windows,linux&perline=10" />
 </p>
-<br />
+
+<p align="center">
+  <img width="140px" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img width="140px" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img width="140px" src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <img width="140px" src="https://img.shields.io/badge/Seaborn-3E6E73?style=for-the-badge&logo=seaborn&logoColor=white" />
+</p>
+
+
+
+
 
 
 ## 📫 Connect with me  
