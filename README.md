@@ -24,8 +24,8 @@
   <img style="width: 150px; height: 40px;" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img style="width: 150px; height: 40px;" src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
   <img style="width: 150px; height: 40px;" src="https://img.shields.io/badge/Seaborn-3E6E73?style=for-the-badge&logo=seaborn&logoColor=white" />
+  <img style="width: 150px; height: 40px;" src="https://img.shields.io/badge/OOP-1D3557?style=for-the-badge&logo=code&logoColor=white" />
 </p>
-
 
 
 
