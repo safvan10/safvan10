@@ -1,12 +1,18 @@
-# MUHAMMED SAFVAN P.S  
+# MUHAMMED SAFVAN P.S 
+<img align="right" alt="Coding" width="450" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+</div>
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ROBOT&size=25&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+Welcome+to+my+GitHub+profile...!)
  ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b> 
-👨‍💻 **Hi, I'm MUHAMMED SAFVAN P.S!**  
+ 
+
+
+👨‍💻 Hi, I'm MUHAMMED SAFVAN P.S!
+
 🌱 I'm currently diving deep into **Artificial Intelligence & Machine Learning**  
 
----
 
-</div>
+
 ## ⚒️ Languages, Frameworks, and Tools ⚒️  
 <div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
