@@ -27,8 +27,8 @@
 ---
 
 ## 🌟 Featured Graphic  
-Here's a design I love sharing:  
-![Your Design](https://raw.githubusercontent.com/your-username/your-repo/main/design.png)  
+Here's a professional animated design I love sharing:  
+![Your Animated Design](https://raw.githubusercontent.com/your-username/your-repo/main/animated-design.gif)  
 
 ---
 
