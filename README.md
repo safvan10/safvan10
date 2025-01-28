@@ -7,7 +7,7 @@
  
 
 
-👨‍💻 Hi, **I'm MUHAMMED SAFVAN P.S!**
+👨‍💻 Hi, **I'm MUHAMMED SAFVAN P.S**
 
 🌱 I'm currently diving deep into **Artificial Intelligence & Machine Learning**  
 
