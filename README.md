@@ -2,7 +2,7 @@
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </div>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ROBOT&size=25&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+Welcome+to+my+GitHub+profile...!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ROBOT&size=25&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+Welcome+to+my+GitHub+profile...!❤️     )
  ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b> 
  
 
@@ -12,7 +12,7 @@
 🌱 I'm currently diving deep into **Artificial Intelligence & Machine Learning**  
 
 
-<h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
+<h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs🛠️</h2> 
 <p align="center">
   <img width="500px" src="https://skillicons.dev/icons?i=py,html,react,git,github,linkedin,vscode,windows,linux&perline=10" />
   <img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/jupyter_notebook.png" alt="Jupyter Notebook Logo" width="40" style="vertical-align: middle; margin-left: 10px;" />
@@ -38,7 +38,7 @@
 
 <div align="center">
   <a href="https://github.com/tanyagupta0201">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!!!&center=true&color=FF0000" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!!!💕&center=true&color=FF0000" alt="Typing SVG">
   </a>
 </div>
 
