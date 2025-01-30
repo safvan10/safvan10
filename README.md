@@ -9,7 +9,9 @@
 
 👨‍💻 Hi, **I'm MUHAMMED SAFVAN P.S**
 
-🌱 I'm currently diving deep into **Artificial Intelligence & Machine Learning**  
+- 📚 I am currently studying at [Institute Certus](https://learnlogicai.com/)
+
+🌱 I'm currently diving deep into **Artificial Intelligence/Machine Learning/Data Analyst/Business Analyst**  
 
 
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs🛠️</h2> 
