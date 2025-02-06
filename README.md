@@ -1,10 +1,16 @@
-# MUHAMMED SAFVAN P.S 
+![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sid41214&label=Profile%20views&color=0e75b6&style=flat" alt="sid41214" /> </p>
+
+
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </div>
 
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ROBOT&size=25&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+Welcome+to+my+GitHub+profile...!❤️     )
+ # MUHAMMED SAFVAN P.S
  ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b> 
- 
+
+
 
 
 👨‍💻 Hi, **I'm MUHAMMED SAFVAN P.S**
@@ -38,12 +44,16 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mhd_sxfvhn)  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/9188096994)
 
 
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=safvan10&theme=default" height="180em" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=safvan10&theme=default"/>
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
 <div align="center">
   <a href="https://github.com/tanyagupta0201">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!!!💕&center=true&color=FF0000" alt="Typing SVG">
   </a>
 </div>
-
-
 
 
