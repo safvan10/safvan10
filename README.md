@@ -1,6 +1,5 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sid41214&label=Profile%20views&color=0e75b6&style=flat" alt="sid41214" /> </p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=safvan10&label=Profile%20views&color=0e75b6&style=flat" alt="safvan10" /> </p>
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </div>
@@ -49,11 +48,9 @@
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=safvan10&theme=default"/>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-
 <div align="center">
   <a href="https://github.com/tanyagupta0201">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!!!💕&center=true&color=FF0000" alt="Typing SVG">
-  </a>
-</div>
+
 
 
