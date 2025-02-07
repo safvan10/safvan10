@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=safvan10&label=Profile%20views&color=0e75b6&style=flat" alt="safvan10" /> </p>
 
-<img align="right" alt="Coding" width="450" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 </div>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ROBOT&size=25&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+Welcome+to+my+GitHub+profile...!❤️     )
@@ -24,8 +24,16 @@
   <img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/jupyter_notebook.png" alt="Jupyter Notebook Logo" width="40" style="vertical-align: middle; margin-left: 10px;" />
 </p>
 
+<p align="center">
+    <a href="#"><img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft%20Excel-%23217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white"></a>
+    <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"></a>
+    <a href="#"><img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=power-bi&logoColor=black"></a>
+    <a href="#"><img alt="Power Query" src="https://img.shields.io/badge/Power%20Query-%2300736A.svg?style=for-the-badge&logo=microsoft-power-bi&logoColor=white"></a>
+    <a href="#"><img alt="Microsoft PowerPoint" src="https://img.shields.io/badge/Microsoft%20PowerPoint-%23B7472A.svg?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"></a>
+</p>
 
 
+ 
 <p align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
   <img style="width: 150px; height: 40px;" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img style="width: 150px; height: 40px;" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
@@ -52,6 +60,7 @@
 <div align="center">
   <a href="https://github.com/tanyagupta0201">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!!!💕&center=true&color=FF0000" alt="Typing SVG">
+
 
 
 
