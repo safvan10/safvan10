@@ -2,19 +2,21 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=safvan10&label=Profile%20views&color=0e75b6&style=flat" alt="safvan10" /> </p>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ROBOT&size=25&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+Welcome+to+my+GitHub+profile...!❤️     )
+
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 </div>
+
  # MUHAMMED SAFVAN P.S
- ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b> 
+  <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b> 
 
 
 
 
 👨‍💻 Hi, **I'm MUHAMMED SAFVAN P.S**
 
-- 📚 I am currently studying at [Institute Certus](https://learnlogicai.com/)
+📚 I am currently studying at [Institute Certus](https://learnlogicai.com/)
 
-🌱 I'm currently diving deep into **Artificial Intelligence/Machine Learning/Data Analyst/Business Analyst**  
+🌱 I'm currently diving deep into **Artificial Intelligence/Machine Learning/Robotics/Data Engineer/Data Analyst/Business Analyst**  
 
 
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs🛠️</h2> 
