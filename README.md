@@ -1,10 +1,9 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=safvan10&label=Profile%20views&color=0e75b6&style=flat" alt="safvan10" /> </p>
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ROBOT&size=25&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+Welcome+to+my+GitHub+profile...!❤️     )
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 </div>
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ROBOT&size=25&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+Welcome+to+my+GitHub+profile...!❤️     )
  # MUHAMMED SAFVAN P.S
  ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b> 
 
